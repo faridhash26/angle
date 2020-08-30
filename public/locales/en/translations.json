@@ -1,0 +1,55 @@
+{
+  "dashboard": {
+    "WELCOME": "Welcome to SData dashboards !",
+    "COPYRIGHT": "All rights Reserved for Pardazesh Dade Sharif - SDATA"
+  },
+  "population": {
+    "page": {
+      "HEADER": "Review population report",
+      "SUBHEADER": "According to the 2016 census"
+    },
+    "card": {
+      "HEADER": "Description",
+      "BODY": "Active Economic Population: All members of the 10-year-old and most households who have been employed or unemployed for seven days prior to the visit are considered active economic population. Students, homeowners, and unemployed income earners, if employed or unemployed, are considered economic actors."
+    },
+    "chart": {
+      "HEADER": "Population Pyramid"
+    },
+    "map": {
+      "HEADER": "Population Dispersion on the Map"
+    }
+  },
+  "table": {
+    "recordPerPage": " records per page",
+    "info": "Showing page _PAGE_ of _PAGES_",
+    "zeroRecords": "Nothing found - sorry",
+    "infoEmpty": "No records available",
+    "infoFiltered": "(filtered from _MAX_ total records)"
+  },
+  "form": {
+    "filter": {
+      "FilterBtn": "Filter!"
+    }
+  },
+  "topbar": {
+    "search": {
+      "PLACEHOLDER": "Type and hit enter.."
+    }
+  },
+  "sidebar": {
+    "WELCOME": "Welcome",
+    "heading": {
+      "HEADER": "Main Navigation"
+    },
+    "nav": {
+      "POPULATION": "Populaton Dashboard",
+      "BLOG": "weblog",
+      "DASHBOARD": "Dashboards",
+
+      "menu": {
+        "MENU": "Menu",
+        "SUBMENU": "Sub Menu"
+      }
+    }
+  }
+}

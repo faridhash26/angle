@@ -1,0 +1,54 @@
+{
+  "dashboard": {
+    "WELCOME": "Bienvenido a los paneles de SData!",
+    "COPYRIGHT": "Todos los derechos reservados para Pardazesh Dade Sharif - SDATA"
+  },
+  "population": {
+    "page": {
+      "HEADER": "Revisar informe de población",
+      "SUBHEADER": "Según el censo de 2016"
+    },
+    "card": {
+      "HEADER": "Descripción",
+      "BODY": "Población económica activa: Todos los miembros de los 10 años de edad y la mayoría de los hogares que han estado empleados o desempleados durante siete días antes de la visita se consideran población económica activa. Los estudiantes, propietarios de viviendas y personas con ingresos desempleados, si están empleados o desempleados, se consideran actores económicos."
+    },
+    "chart": {
+      "HEADER": "Pirámide de población"
+    },
+    "map": {
+      "HEADER": "Dispersión de población en el mapa"
+    }
+  },
+  "table": {
+    "recordPerPage": " records per page",
+    "info": "Showing page _PAGE_ of _PAGES_",
+    "zeroRecords": "Nothing found - sorry",
+    "infoEmpty": "No records available",
+    "infoFiltered": "(filtered from _MAX_ total records)"
+  },
+  "form": {
+    "filter": {
+      "FilterBtn": "Filtrar!"
+    }
+  },
+  "topbar": {
+    "search": {
+      "PLACEHOLDER": "Tipea y pulsa enter.."
+    }
+  },
+  "sidebar": {
+    "WELCOME": "Bienvenido",
+    "heading": {
+      "HEADER": "Navegacion principal"
+    },
+    "nav": {
+      "POPULATION": "Tablero de Población",
+      "BLOG": "weblog",
+      "DASHBOARD": "Tablero",
+      "menu": {
+        "MENU": "Menu",
+        "SUBMENU": "Sub Menu"
+      }
+    }
+  }
+}
